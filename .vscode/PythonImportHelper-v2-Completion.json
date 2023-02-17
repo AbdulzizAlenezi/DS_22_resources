@@ -1,0 +1,20 @@
+[
+    {
+        "label": "test",
+        "kind": 2,
+        "importPath": "lessons.lesson1.test",
+        "description": "lessons.lesson1.test",
+        "peekOfCode": "def test():\n    hej = 1\n# \"C:\\Users\\anton\\AppData\\Local\\Programs\\Python\\Python311\\python.exe\"\nprint(\"Hello world\")",
+        "detail": "lessons.lesson1.test",
+        "documentation": {}
+    },
+    {
+        "label": "a",
+        "kind": 5,
+        "importPath": "lessons.variables",
+        "description": "lessons.variables",
+        "peekOfCode": "a = \"Hello World\"\nprint(a)",
+        "detail": "lessons.variables",
+        "documentation": {}
+    }
+]
